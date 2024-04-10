@@ -16,7 +16,7 @@ Any misuse of commands, including but not limited to spamming, abusing moderatio
 4. ***Disclaimer of Warranty***
 Assister is provided on an "as is" and "as available" basis without warranties of any kind, either express or implied. We do not guarantee that Assister will be error-free, uninterrupted, or secure. Your use of Assister is at your own risk.
 
-5. Limitation of Liability
+5. ***Limitation of Liability***
 In no event shall Assister or its developers be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in any way connected with the use or inability to use Assister, even if we have been advised of the possibility of such damages.
 
 6. ***Changes to Terms***
@@ -24,9 +24,6 @@ We reserve the right to update or modify these Terms of Service at any time with
 
 7. ***Termination***
 We reserve the right to suspend or terminate your access to Assister at any time for any reason without prior notice or liability.
-
-8. ***Governing Law***
-"These Terms of Service shall be governed by and construed in accordance with the laws of India, without regard to its conflict of law provisions", without regard to its conflict of law provisions.
 
 ***Contact Us***
 If you have any questions or concerns regarding these Terms of Service, please contact us at areebyaseen59@gmail.com or join the discord support server: https://discord.gg/j4uwhmgSyM
